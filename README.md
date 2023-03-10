@@ -17,3 +17,5 @@ contains info on all the apps / tools / settings I use on my Mac.(Backup)
 * Cpu: 1.6 GHz Dual-Core Intel Core i5
 * Gpu: Intel UHD Graphics 617 1536 MB
 * Memory:8gb(RAM) ; 128gb(ROM)
+
+##
