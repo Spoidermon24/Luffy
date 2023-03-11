@@ -1,4 +1,4 @@
-## My Mac Setup
+# My Mac Setup
 
 contains info on all the apps / tools / settings I use on my Mac.(Backup)
 
@@ -18,4 +18,23 @@ contains info on all the apps / tools / settings I use on my Mac.(Backup)
 * Gpu: Intel UHD Graphics 617 1536 MB
 * Memory:8gb(RAM) ; 128gb(ROM)
 
-##
+## Setup Road Map
+
+Finder Settings
+
+System Settings(Including Dock Size,Magnification,Some Permmisions,Etc....)
+
+Then Go Through All Default Apps And Login Them...
+
+Then Install AppStore-Apps.md
+
+Then TNT.md
+
+Then Install Xcode And Install Command Line Tools Via Terminal
+```sh
+xcode-select --install
+```
+Then Install Brew-Formulae.md
+
+Then Install Brew-Casks.md
+
