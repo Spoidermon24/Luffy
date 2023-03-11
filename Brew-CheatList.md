@@ -142,6 +142,23 @@ Display all formula that will be removed (dry run)
 brew cleanup -n
 ```
 
+## EXTRA
+
+revone all unused dependencies
+```sh
+brew autoremove
+```
+list all that would be removed,without removing it
+```sh
+brew autoremove -n
+```
+
+UNINSTALL BREW
+```SH
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
+```
+
+
 
 * # [Source](https://www.youdriveai.com/assets/cheatsheets/cheatsheet-homebrew.pdf)
  
