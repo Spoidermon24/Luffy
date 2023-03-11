@@ -2,403 +2,338 @@
 
 Install
 ```sh
-
+brew install --cask iterm2
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall iterm2
 ```
 
 # alfred
 
 Install
 ```sh
-
+brew install --cask alfred
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall alfred
 ```
 
 # rectangle
 
 Install
 ```sh
-
+brew install --cask rectangle
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall rectangle
 ```
 
 # alt-tab(window preveiw while switching tab)
 
 Install
 ```sh
-
+brew install --cask alt-tab
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall alt-tab
 ```
 
 # discord
 
 Install
 ```sh
-
+brew install --cask discord
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall discord
 ```
 
 # vlc
 
 Install
 ```sh
-
+brew install --cask vlc
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall vlc
 ```
 
 # visual-studio-code
 
 Install
 ```sh
-
+brew install --cask vlc
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall vlc
 ```
 
 # 1password
 
 Install
 ```sh
-
+brew install --cask vlc
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall vlc
 ```
 
 # android studio
 
 Install
 ```sh
-
+brew install --cask vlc
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall vlc
 ```
 
 # blender
 
 Install
 ```sh
-
+brew install --cask blender
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall blender
 ```
 
 # github
 
 Install
 ```sh
-
+brew install --cask blender
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall blender
 ```
 
 # grammerly
 
 Install
 ```sh
-
+brew install --cask grammerly
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall grammerly
 ```
 
 # gramerly-desktop
 
 Install
 ```sh
-
+brew install --cask gramerly-desktop
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall gramerly-desktop
 ```
 
 # handbrake
 
 Install
 ```sh
-
+brew install --cask handbrake
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall handbrake
 ```
 
 # microsoft edge
 
 Install
 ```sh
-
+brew install --cask microsoft edge
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall microsoft edge
 ```
 
 # brave-browser
 
 Install
 ```sh
-
+brew install --cask brave-browser
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall brave-browser
 ```
 
 # obs
 
 Install
 ```sh
-
+brew install --cask obs
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall obs
 ```
 
 # cloudflare-warp
 
 Install
 ```sh
-
+brew install --cask cloudflare-warp
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall cloudflare-warp
 ```
 
 # docker
 
 Install
 ```sh
-
+brew install --cask docker
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall docker
 ```
 
 # pycharm
 
 Install
 ```sh
-
+brew install --cask pycharm
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall pycharm
 ```
 
 # mkvtoolnix
 
 Install
 ```sh
-
+brew install --cask mkvtoolnix
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall mkvtoolnix
 ```
 
 # stats
 
 Install
 ```sh
-
+brew install --cask stats
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
-```
-
-# iterm
-
-Install
-```sh
-
-```
-Update
-```sh
-
-```
-Uninstall
-```sh
-
+brew cask uninstall stats
 ```
 
 # send-anywhere
 
 Install
 ```sh
-
+brew install --cask send-anywhere
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall send-anywhere
 ```
 
 # spotify
 
 Install
 ```sh
-
+brew install --cask spotify
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall spotify
 ```
 
 # telegram
 
 Install
 ```sh
-
+brew install --cask telegram
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
-
+brew cask uninstall telegram
 ```
 
 # vlc
 
 Install
 ```sh
-
+brew install --cask vlc
 ```
-Update
-```sh
 
-```
 Uninstall
 ```sh
+brew cask uninstall vlc
+```
 
+# App Cleaner
+
+Install
+```sh
+brew install --cask App Cleaner
+```
+
+Uninstall
+```sh
+brew cask uninstall App Cleaner
+```
+
+
+## To Update
+
+it updates all the brews
+```sh
+brew upgrade
+```
+if u dont wanna update a certain brew then
+```sh
+brew pin "The Brew/Formula/Cask Name"
+```
+unpin it by
+```sh
+brew unpin "The Brew/Formula/Cask Name"
 ```
