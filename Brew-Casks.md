@@ -322,6 +322,17 @@ Uninstall
 brew cask uninstall App Cleaner
 ```
 
+# Slack
+
+Install
+```
+
+```sh
+
+Uninstall
+```
+
+```sh
 
 ## To Update
 
@@ -337,3 +348,42 @@ unpin it by
 ```sh
 brew unpin "The Brew/Formula/Cask Name"
 ```
+
+
+#U Can Install Them All At Once By
+First Create A .txt File
+```
+app-cleaner
+discord
+slack
+vlc
+visual-studio-code
+iterm2
+alfred
+rectangle
+alt-tab
+1 password
+android studio
+blender
+github
+grammerly
+gammerly destop
+handbrake
+microsoft edge
+brave browser
+obs
+cloudfare warp
+pycharm
+docker
+mkvtoolnix
+stats
+sendanywhere
+spotify
+telegram
+```sh
+
+then run this in terminal
+
+```
+xargs brew install < apps.txt
+```sh
