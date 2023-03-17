@@ -325,14 +325,14 @@ brew cask uninstall App Cleaner
 # Slack
 
 Install
-```
-
 ```sh
+
+```
 
 Uninstall
-```
-
 ```sh
+
+```
 
 ## To Update
 
@@ -352,7 +352,7 @@ brew unpin "The Brew/Formula/Cask Name"
 
 #U Can Install Them All At Once By
 First Create A .txt File
-```
+```sh
 app-cleaner
 discord
 slack
@@ -380,10 +380,10 @@ stats
 sendanywhere
 spotify
 telegram
-```sh
+```
 
 then run this in terminal
 
-```
-xargs brew install < apps.txt
 ```sh
+xargs brew install < apps.txt
+```
