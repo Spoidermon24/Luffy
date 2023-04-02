@@ -334,6 +334,18 @@ Uninstall
 
 ```
 
+# Notion
+
+Install
+```sh
+brew install --cask notion
+```
+
+Uninstall
+```sh
+
+```
+
 ## To Update
 
 it updates all the brews
