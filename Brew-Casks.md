@@ -392,6 +392,16 @@ stats
 sendanywhere
 spotify
 telegram
+
+extra:
+hidden bar
+raycast
+arc browser
+
+
+
+
+
 ```
 
 then run this in terminal
