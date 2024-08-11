@@ -82,18 +82,6 @@ Uninstall
 brew cask uninstall vlc
 ```
 
-# 1password
-
-Install
-```sh
-brew install --cask vlc
-```
-
-Uninstall
-```sh
-brew cask uninstall vlc
-```
-
 # android studio
 
 Install
@@ -140,18 +128,6 @@ brew install --cask grammerly
 Uninstall
 ```sh
 brew cask uninstall grammerly
-```
-
-# gramerly-desktop
-
-Install
-```sh
-brew install --cask gramerly-desktop
-```
-
-Uninstall
-```sh
-brew cask uninstall gramerly-desktop
 ```
 
 # handbrake
@@ -262,18 +238,6 @@ Uninstall
 brew cask uninstall stats
 ```
 
-# send-anywhere
-
-Install
-```sh
-brew install --cask send-anywhere
-```
-
-Uninstall
-```sh
-brew cask uninstall send-anywhere
-```
-
 # spotify
 
 Install
@@ -296,30 +260,6 @@ brew install --cask telegram
 Uninstall
 ```sh
 brew cask uninstall telegram
-```
-
-# vlc
-
-Install
-```sh
-brew install --cask vlc
-```
-
-Uninstall
-```sh
-brew cask uninstall vlc
-```
-
-# App Cleaner
-
-Install
-```sh
-brew install --cask App Cleaner
-```
-
-Uninstall
-```sh
-brew cask uninstall App Cleaner
 ```
 
 # Slack
@@ -365,33 +305,29 @@ brew unpin "The Brew/Formula/Cask Name"
 #U Can Install Them All At Once By
 First Create A .txt File
 ```sh
-app-cleaner
-discord
-slack
-vlc
-visual-studio-code
-iterm2
 alfred
-rectangle
 alt-tab
-1 password
 android studio
 blender
+brave browser
+cloudfare warp
+docker
+discord
 github
 grammerly
-gammerly destop
 handbrake
-microsoft edge
-brave browser
-obs
-cloudfare warp
-pycharm
-docker
+iterm2
 mkvtoolnix
+microsoft edge
+obs
+pycharm
+rectangle
+slack
 stats
-sendanywhere
 spotify
 telegram
+vlc
+visual-studio-code
 
 extra:
 hidden bar
