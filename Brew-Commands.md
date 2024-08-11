@@ -9,7 +9,7 @@ Table Of Contents:
 * [Brew Cleanup](#brew-cleanup)
 
 # Cheat List
-[cheatsheet-homebrew.pdf](https://github.com/user-attachments/files/16575652/cheatsheet-homebrew.pdf)
+![cheatsheet-homebrew](https://github.com/user-attachments/assets/799044d5-6393-438e-8c2f-eedd10771493)
 
 # Brew Help
 
