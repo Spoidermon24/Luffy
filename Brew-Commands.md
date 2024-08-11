@@ -8,6 +8,9 @@ Table Of Contents:
 * [Brew Search,Install,Remove](#brew-search,install,remove)
 * [Brew Cleanup](#brew-cleanup)
 
+# Cheat List
+[cheatsheet-homebrew.pdf](https://github.com/user-attachments/files/16575652/cheatsheet-homebrew.pdf)
+
 # Brew Help
 
 Display The Current Version Of Homebrew
