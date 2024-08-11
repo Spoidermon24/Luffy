@@ -308,32 +308,28 @@ First Create A .txt File
 alfred
 alt-tab
 android studio
+arc browser
 blender
 brave browser
 cloudfare warp
 docker
 discord
 github
-grammerly
 handbrake
+hidden bar
 iterm2
 mkvtoolnix
 microsoft edge
 obs
 pycharm
 rectangle
+raycast
 slack
 stats
 spotify
 telegram
 vlc
 visual-studio-code
-
-extra:
-hidden bar
-raycast
-arc browser
-
 
 
 
