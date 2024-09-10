@@ -1,7 +1,7 @@
 # Sources
 
 * [MacTorrents](https://www.torrentmac.net/)
-* [TNT](https://www.tntmac.com/)
+* [TNT](https://www.tntmactorrents.com/)
 
 
 ## CleanMyMacX
@@ -37,33 +37,11 @@ or
 https://www.torrentmac.net/?s=4k+video+downloader
 ```
 
-## Wondershare Uniconverter 14
-
-Install & Update
-```sh
-https://www.tntmac.com/?s=wondershare+uniconvertor
-```
-or
-```sh
-https://www.torrentmac.net/?s=wondershare+uniconverter
-```
-
 ## Smart Converter Pro 3
 
 Install & Update
 ```sh
 https://www.torrentmac.net/?s=smart+converter
-```
-
-## Adobe Photoshop
-
-Install & Update
-```sh
-https://www.tntmac.com/?s=adobe+photoshop
-```
-or
-```sh
-https://www.torrentmac.net/?s=adobe+photoshop
 ```
 
 ## Infuse
