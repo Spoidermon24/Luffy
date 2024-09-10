@@ -80,7 +80,7 @@ brew untap <user/repo>
 
 Tap the Cask repository from Github.
 ```sh
-brew tap homebrew/cask
+brew tap caskroom/cask
 ```
 List all the installed casks .
 ```sh
