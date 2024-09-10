@@ -92,15 +92,15 @@ brew search <text>
 ```
 Install the given cask.
 ```sh
-brew cask install <cask>
+brew install --cask <cask>
 ```
 Reinstalls the given Cask
 ```sh
-brew cask reinstall <cask>
+brew reinstall --cask <cask>
 ```
 Uninstall the given cask.
 ```sh
-brew cask uninstall <cask>
+brew uninstall <cask>
 ```
 
 # Brew Search, Install, Remove
@@ -147,7 +147,7 @@ brew cleanup -n
 
 ## EXTRA
 
-revone all unused dependencies
+remonve all unused dependencies
 ```sh
 brew autoremove
 ```
@@ -160,8 +160,3 @@ UNINSTALL BREW
 ```SH
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
 ```
-
-
-
-* # [Source](https://www.youdriveai.com/assets/cheatsheets/cheatsheet-homebrew.pdf)
- 
