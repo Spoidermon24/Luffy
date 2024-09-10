@@ -1,4 +1,4 @@
-# Browser-Apps
+# Website Downloads
 
 * [Final Cut Pro Trial](https://www.apple.com/in/final-cut-pro/trial/)
 * [DaVinci Resolve](https://www.blackmagicdesign.com/event/davinciresolvedownload)
